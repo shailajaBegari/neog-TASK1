@@ -6,6 +6,7 @@ console.log(name)
 var wellcome="WELL COME"+" "+name
 console.log(wellcome)
 
+
 const question="AM I OLDER THAN 25?::"
 const AMIOLDERTHAN25="yes"
 
