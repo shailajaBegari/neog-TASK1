@@ -38,25 +38,27 @@ if (usercity===iscity){
 }
 
 console.log("**********************************")
-const readlinesyc=require("readline-sync")
-var score=0
-function  play(question,answer){
-    const userage=readlinesyc.question(question)
 
-if (userage===answer){
-        console.log("Ye your Right")
-        score++
-        console.log("Score is ",score)
-    }else{
-        console.log("YOUR WRONG")
-        score--
-        console.log("Score is ",score)
-    }
-}
-play("AM I OLDER THAN 25?::","yes")
-console.log("****************************")
-play("AM FROM CITY OF BANGLLORE?::","no")
-console.log("****************************")
+
+// const readlinesyc=require("readline-sync")
+// var score=0
+// function  play(question,answer){
+//     const userage=readlinesyc.question(question)
+
+// if (userage===answer){
+//         console.log("Ye your Right")
+//         score++
+//         console.log("Score is ",score)
+//     }else{
+//         console.log("YOUR WRONG")
+//         score--
+//         console.log("Score is ",score)
+//     }
+// }
+// play("AM I OLDER THAN 25?::","yes")
+// console.log("****************************")
+// play("AM FROM CITY OF BANGLLORE?::","no")
+// console.log("****************************")
 
 
 
