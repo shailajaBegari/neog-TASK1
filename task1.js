@@ -24,29 +24,29 @@ function check(question,answer,options){
   }
 
   var questionBank=[
-    {question:"Grand Central Terminal, Park Avenue, New York is the world",
-    options:["largest railway station","highest railway station","longest railway station","None of the above"],
+    {question:"What do you think about me?",
+    options:["Good","Bad","Ugly","Nothing"],
     answer:1
     
   },
   {
-    question:" Who is the Father of our Nation?",
-    options:["Nehrugi","Mahatma Gandhi","Ramanujan","All of the above"],
+    question:" Which is your favourite color?",
+    options:["Red","Pink","Blue","Green"],
     answer:2
   },
   {
-    question:" Who was the first President of India?",
-    options:["Ambedkar","Gandhigi","Dr. Rajendra Prasad","None"],
+    question:" Which place your most like?",
+    options:["Dubai","Hyd","Mumbai","Bangloore"],
     answer:3
 
   },{
-      question:" Which is the most sensitive organ in our body?",
-      options:["Mouth","Ear","Eyes","Skin"],
+      question:" which one your favourit food?",
+      options:["Dall","Chiken","Motton","Briyani"],
       answer:4
   },
   {
-      question:" Who invented Computer?",
-      options:["Charles Babbage","Thamasedision","Gelilio","None of these"],
+      question:"what is your long term goal?",
+      options:["Software","Hardware","Teacher","Lawyer"],
       answer:1
   }
 ]
