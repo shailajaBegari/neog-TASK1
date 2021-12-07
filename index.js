@@ -1,4 +1,5 @@
 
+console.log("  🤹🏾‍♀️ THIS IS ABOUT FRIENDS QUIZE  🤹🏾‍♀️")
 var readline=require("readline-sync");
 const chalk = require('chalk');
 
